@@ -3,7 +3,6 @@ import numpy as np
 
 df = pd.read_csv(r"C:\Practice\Power Trading Analysis\IEX_final.csv")
 
-
 df.head()
 
 df.shape
